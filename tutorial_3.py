@@ -6,6 +6,7 @@ p = h - 2
 q = f/p
 r = q * q
 s = c + d
+t = c/s
 u = t + h
 y = u - r
 print(y)
